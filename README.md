@@ -1,4 +1,4 @@
-# De-Lottery-blockchain
+# Decentralized-Lottery-Blockchain
 
 This project is a smart contract application of blockchain network - eth. 
 It is a decentralized lottery system, with a manager to act as master.
